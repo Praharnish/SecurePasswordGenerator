@@ -1,4 +1,7 @@
 # Author : Harnish Prajapati, Krish Patel
+# Date : February 28, 2025
+# Purpose : Lab 1
+# description : Random password generator
 
 import random
 import string
